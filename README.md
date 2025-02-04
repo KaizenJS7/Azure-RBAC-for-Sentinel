@@ -5,7 +5,7 @@ What we will do now is how to assign roles in Azure. What we will do is go to <b
  <img src="https://i.imgur.com/PAGjaHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Then we go to access control and click on <b>Role assignments</b>.
+Then we go to <b>Access Control (IAM)</b> and click on <b>Role assignments</b>.
 
  <img src="https://i.imgur.com/s87t6tb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
