@@ -40,5 +40,10 @@ As you can see, the user is showing up on the members and then all we need to do
 Then we get the overview see, which role we are assigning, what is the scope in this case because we did it directly in the resources group. The scope of this role assignment is also tied to the resource group and 
 we see which members is actually affected. We click on <b>Review + assign</b>.
 
-<img src="https://i.imgur.com/rTsnuKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cyxIfCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+This is your first role assignment. 
+
+<img src="https://i.imgur.com/fhJPT3b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
