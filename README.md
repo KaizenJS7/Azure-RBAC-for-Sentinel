@@ -16,7 +16,7 @@ click on <b>Add role assignment</b>
  <img src="https://i.imgur.com/r36IQ0A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-What we can then do is search for Sentinel. All the Sentinel roles will show up, so what we will do is click on <b>Sentinel Contributor</b> and click on next.
+What we can then do is search for Sentinel. All the Sentinel roles will show up, so what we will do is click on <b>Sentinel Contributor</b> and click on <b>next</b>.
 
 <img src="https://i.imgur.com/zwsQhHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
