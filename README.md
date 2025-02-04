@@ -18,5 +18,12 @@ click on <b>Add role assignment</b>
 
 What we can then do is search for Sentinel. All the Sentinel roles will show up, so what we will do is click on <b>Sentinel Contributor</b> and click on next.
 
-<img src="https://i.imgur.com/04LOOvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zwsQhHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+Then under the <b>Members</b> plate, what we can actually do is we can decide whether we want to assign this access to a user, group or service principle that is the first option, or to go with the managed identity.
+Manage identity is something that we can and should utilize when we build, for example automation in Sentinel or when we want to assign permissions and especially roles therefore to Azure resources, but in this case we want to assign the Sentinel Contributor role to a person that works in our SOC, and what we will do to do that is we will click on <b>Select Members</b>.
+
+<img src="https://i.imgur.com/eSHFXeo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
