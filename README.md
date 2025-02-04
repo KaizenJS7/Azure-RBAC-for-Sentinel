@@ -36,3 +36,4 @@ As you can see, the user is showing up on the members and then all we need to do
 
 <img src="https://i.imgur.com/rTsnuKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
