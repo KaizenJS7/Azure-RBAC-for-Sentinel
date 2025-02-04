@@ -27,3 +27,12 @@ Manage identity is something that we can and should utilize when we build, for e
 <img src="https://i.imgur.com/eSHFXeo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+In this case I will select my name but you can also select your local user and then click on <b>Select</b>.
+
+<img src="https://i.imgur.com/ed5aFHa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+As you can see, the user is showing up on the members and then all we need to do is click on <b>Review + assign,</b>.
+
+<img src="https://i.imgur.com/rTsnuKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
