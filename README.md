@@ -4,3 +4,19 @@ What we will do now is how to assign roles in Azure. What we will do is go to <b
 
  <img src="https://i.imgur.com/PAGjaHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+Then we go to access control and click on <b>Role assignments</b>.
+
+ <img src="https://i.imgur.com/s87t6tb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Under Role Assignments, what we can actually see is, first of all, the role assignments that are existing in the subscription. We can also see there is a limit of 4,000 role assignments per subscription. That is something we can actually increase by raising a support request if we run into those limits. I currently have 2 role assignments but because we want to add a new role assignment we will click on <b>Add</b> and 
+click on <b>Add role assignment</b>
+
+ <img src="https://i.imgur.com/r36IQ0A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+What we can then do is search for Sentinel. All the Sentinel roles will show up, so what we will do is click on <b>Sentinel Contributor</b> and click on next.
+
+<img src="https://i.imgur.com/04LOOvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
